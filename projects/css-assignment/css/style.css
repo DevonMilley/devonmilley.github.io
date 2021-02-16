@@ -3,24 +3,24 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: Helvetica;
+    font-family: Helvetica;
 }
 
 p,
 .caption {
-	font-family: Palatino;
-color: black;
+    font-family: Palatino;
+    color: black;
 }
 
 h5,
 h6 {
-	color: gray;
+    color: gray;
 }
 
 .caption {
-	font-style: italic;
+    font-style: italic;
 }
 
-.margin{
-	margin: 10px;
+.margin {
+    margin: 10px;
 }
