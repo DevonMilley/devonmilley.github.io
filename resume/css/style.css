@@ -1,3 +1,13 @@
+.font{
+	font-family: 'Raleway', sans-serif;
+}
+
 h1{
-	color:#3388AC;
+	color:#07484B;
+	text-align: center;
+	font-weight: bold;
+}
+
+body{
+	background-color: #F3EBE2
 }
