@@ -1,22 +1,22 @@
-.font{
-	font-family: 'Raleway', sans-serif;
+.font {
+    font-family: 'Raleway', sans-serif;
 }
 
-h1{
-	color:#07484B;
-	text-align: center;
-	font-weight: bold;
+h1 {
+    color: #07484B;
+    text-align: center;
+    font-weight: bold;
 }
 
-body{
-	background-color: #F3EBE2
+body {
+    background-color: #F3EBE2
 }
 
-h2{
-	color:#55917F;
-	font-weight: bold;
+h2 {
+    color: #55917F;
+    font-weight: bold;
 }
 
-.date{
-	text-align: right;
+.date {
+    text-align: right;
 }
