@@ -1,0 +1,34 @@
+.font {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #F3EBE2
+}
+
+h1 {
+    color: #07484B;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4{
+	text-align: center;
+	color: #7E8B81;
+	line-height: 1.5;
+}
+
+h5{
+	line-height: 2.5;
+	color: #7E8B81;
+}
+
+nav{
+	text-align: right;
+	color: #C17767;
+	background-color: #F3EBE2;
+
+/*why nav bar style not changing*/
+
+/*how do i get the blue color and
+underline on the links to go away*/

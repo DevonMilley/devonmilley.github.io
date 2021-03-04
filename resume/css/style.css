@@ -2,14 +2,14 @@
     font-family: 'Raleway', sans-serif;
 }
 
+body {
+    background-color: #F3EBE2
+}
+
 h1 {
     color: #07484B;
     text-align: center;
     font-weight: bold;
-}
-
-body {
-    background-color: #F3EBE2
 }
 
 h2 {
@@ -19,4 +19,22 @@ h2 {
 
 .date {
     text-align: right;
+    color: #7E8B81;
+}
+
+nav{
+	text-align: right;
+	color: #C17767;
+	background-color: #F3EBE2;	
+}
+
+h4{
+	color: #7E8B81;
+	font-weight: bold;
+}
+
+
+h5,
+ul{
+	color: #7E8B81;
 }
