@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #F3EBE2
+    background-color: #F3EBE2;
 }
 
 h1 {
@@ -39,4 +39,8 @@ h4{
 h5,
 ul{
 	color: #7E8B81;
+}
+
+.bio{
+    background-color: #C17767;
 }

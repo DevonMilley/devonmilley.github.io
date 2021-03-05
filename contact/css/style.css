@@ -2,8 +2,16 @@
     font-family: 'Raleway', sans-serif;
 }
 
+/*.bio{
+	background-color: #D0988B;
+}*/
+
+.loc{
+	float: right;
+}
+
 body {
-    background-color: #F3EBE2
+    background-color: #F3EBE2;
 }
 
 h1 {
@@ -32,3 +40,5 @@ nav{
 
 /*how do i get the blue color and
 underline on the links to go away*/
+
+
