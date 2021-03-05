@@ -2,13 +2,10 @@
     font-family: 'Raleway', sans-serif;
 }
 
-/*.bio{
-	background-color: #D0988B;
-}*/
-
-.loc{
-	float: right;
+.bio{
+	background-color: #E2BFB6;
 }
+
 
 body {
     background-color: #F3EBE2;
@@ -31,10 +28,10 @@ h5{
 	color: #7E8B81;
 }
 
-nav{
-	text-align: right;
-	color: #C17767;
-	background-color: #F3EBE2;
+.custom-nav{
+	color: #07484B;
+	background-color: #DCB2A8;
+}
 
 /*why nav bar style not changing*/
 

@@ -41,6 +41,10 @@ ul{
 	color: #7E8B81;
 }
 
-.bio{
-    background-color: #C17767;
+.custom-nav,
+.navbar-light,
+.bg-light{
+    text-align: right;
+    color: #C17767;
+    background-color: #DCB2A8;
 }
