@@ -1,3 +1,5 @@
+/*FULL SITE*/
+
 .font {
     font-family: 'Raleway', sans-serif;
 }
@@ -5,12 +7,45 @@
 body {
     background-color: #F3EBE2;
 }
-
 h1 {
     color: #07484B;
     text-align: center;
     font-weight: bold;
 }
+
+/*nav bar*/
+.custom-nav,
+.navbar-light,
+.bg-light{
+    text-align: right;
+    color: #C17767;
+    background-color: #DCB2A8;
+}
+
+nav{
+    text-align: right;
+    color: #C17767;
+    background-color: #F3EBE2;  
+}
+
+/*site page*/
+
+.bio{
+    background-color: #E2BFB6;
+}
+
+.contact{
+    text-align: center;
+    color: #7E8B81;
+    line-height: 1.5;
+}
+
+.biotext{
+    line-height: 2.5;
+    color: #7E8B81;
+}
+
+/*resume only*/
 
 h2 {
     color: #55917F;
@@ -21,14 +56,6 @@ h2 {
     text-align: right;
     color: #7E8B81;
 }
-
-nav{
-	text-align: right;
-	color: #C17767;
-	background-color: #F3EBE2;	
-}
-
-/*why nav bar style not changing?*/
 
 h4{
 	color: #7E8B81;
@@ -41,10 +68,3 @@ ul{
 	color: #7E8B81;
 }
 
-.custom-nav,
-.navbar-light,
-.bg-light{
-    text-align: right;
-    color: #C17767;
-    background-color: #DCB2A8;
-}
