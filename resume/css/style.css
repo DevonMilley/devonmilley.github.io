@@ -4,50 +4,52 @@ body {
     background-color: #F3EBE2;
     font-family: 'Raleway', sans-serif;
 }
-h1 {
+
+h1,
+.title {
     color: #07484B;
     text-align: center;
-    padding-bottom: 2%;
+    padding-bottom: 1%;
     padding-top: 2%;
 }
 
 h1,
 h2,
-h4{
+h4 {
     font-weight: bold;
 }
 
 /*nav bar*/
-.custom-nav{
+.custom-nav {
     background-color: #DCB2A8;
 }
 
-.custom-nav a{
-    color: #07484B ;
+.custom-nav a {
+    color: #07484B;
 }
 
 
 /*site page*/
 
-.bio{
+.bio {
     background-color: #E2BFB6;
     margin-bottom: 4%;
     padding-left: 1%;
 }
 
 .contact,
-.contact a{
+.contact a {
     text-align: center;
     color: #7E8B81;
     text-decoration: none;
-    line-height: 1.5; 
+    line-height: 1.5;
 }
 
-.contact a{
+.contact a {
     text-decoration: underline;
 }
 
-.biotext{
+.biotext {
     line-height: 2;
     color: #7E8B81;
 }
@@ -66,11 +68,11 @@ h2 {
 h5,
 ul,
 h4,
-p{
-	color: #7E8B81;
+p {
+    color: #7E8B81;
 }
 
-.resume h1{
+.resume h1 {
     padding-top: 2%;
     padding-bottom: 2%;
 
@@ -78,9 +80,15 @@ p{
 
 /*clips page*/
 
-.clips{
-    padding-left: 2%;
-    padding-right: 2%;
+.clips,
+.clips h5,
+.clips h6,
+.clips p{
     text-align: center;
+    color: #07484B;
+    background-color: #55917F;
+    
 }
+
+
 
