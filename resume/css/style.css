@@ -1,55 +1,61 @@
 /*FULL SITE*/
 
-.font {
-    font-family: 'Raleway', sans-serif;
-}
-
 body {
     background-color: #F3EBE2;
+    font-family: 'Raleway', sans-serif;
 }
 h1 {
     color: #07484B;
     text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+h1,
+h2,
+h4{
     font-weight: bold;
 }
 
 /*nav bar*/
-.custom-nav,
-.navbar-light,
-.bg-light{
-    text-align: right;
-    color: #C17767;
+.custom-nav{
     background-color: #DCB2A8;
 }
 
-nav{
-    text-align: right;
-    color: #C17767;
-    background-color: #F3EBE2;  
+.custom-nav a{
+    color: #07484B ;
 }
+
 
 /*site page*/
 
 .bio{
     background-color: #E2BFB6;
+    margin-bottom: 4%;
+    padding-left: 1%;
 }
 
-.contact{
+.contact,
+.contact a{
     text-align: center;
     color: #7E8B81;
-    line-height: 1.5;
+    text-decoration: none;
+    line-height: 1.5; 
+}
+
+.contact a{
+    text-decoration: underline;
 }
 
 .biotext{
-    line-height: 2.5;
+    line-height: 2;
     color: #7E8B81;
 }
 
-/*resume only*/
+/*resume page*/
 
 h2 {
     color: #55917F;
-    font-weight: bold;
 }
 
 .date {
@@ -57,14 +63,23 @@ h2 {
     color: #7E8B81;
 }
 
-h4{
+h5,
+ul,
+h4,
+p{
 	color: #7E8B81;
-	font-weight: bold;
 }
 
+.resume h1{
+    padding-top: 2%;
+    padding-bottom: 2%;
 
-h5,
-ul{
-	color: #7E8B81;
+}
+
+/*clips page*/
+
+.clips{
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
