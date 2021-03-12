@@ -19,8 +19,8 @@ h4 {
     font-weight: bold;
 }
 
-/*nav bar*/
-.custom-nav {
+.custom-nav,
+.clips .custom-button {
     background-color: #DCB2A8;
 }
 
@@ -28,8 +28,6 @@ h4 {
     color: #07484B;
 }
 
-
-/*site page*/
 
 .bio {
     background-color: #E2BFB6;
@@ -54,7 +52,6 @@ h4 {
     color: #7E8B81;
 }
 
-/*resume page*/
 
 h2 {
     color: #55917F;
@@ -78,17 +75,18 @@ p {
 
 }
 
-/*clips page*/
 
 .clips,
 .clips h5,
 .clips h6,
-.clips p{
+.clips p,
+.clips a {
     text-align: center;
     color: #07484B;
     background-color: #55917F;
-    
+
 }
 
-
-
+.custom-button {
+    margin-bottom: 6%;
+}
