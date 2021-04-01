@@ -1,0 +1,17 @@
+h1{
+	font-size: 60px;
+	font-family: "Anton", sans-seif;
+}
+
+.adjust{
+	font-size: 120px;
+}
+
+@media (max-width: 576px){
+	h1{
+		font-size: 37px;
+	}
+	.adjust{
+		font-size: 85px;
+	}
+}
