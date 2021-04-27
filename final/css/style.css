@@ -1,3 +1,15 @@
 /*font-family: 'Fjalla One', sans-serif;
 font-family: 'Shippori Mincho', serif;*/
 
+.title-banner{
+	background-color: black;
+	color: red;
+	text-transform: uppercase;
+	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
+	padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+/*how do i get my column to go all the way across the page*/
