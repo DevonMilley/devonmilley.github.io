@@ -13,7 +13,7 @@ h1,
 h2 {
     font-family: "Anton", sans-seif;
     text-align: center;
-       text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 h1 {
@@ -65,18 +65,18 @@ h1 {
 }
 
 .description1,
-.description3{
-font-family: "nunito sans", sans-serif;
+.description3 {
+    font-family: "nunito sans", sans-serif;
 }
 
 .description2,
-.description3{
+.description3 {
     color: #010833;
 }
 
 .description1,
 .description2,
-.description3{
+.description3 {
     text-transform: uppercase;
 }
 
@@ -107,8 +107,13 @@ font-family: "nunito sans", sans-serif;
     margin: 0 auto;
 }
 
-.footer{
+.footer {
     font-size: 14px;
+}
+
+a {
+    color: #010833;
+    text-decoration: underline #ffa500;
 }
 
 @media (max-width: 576px) {
