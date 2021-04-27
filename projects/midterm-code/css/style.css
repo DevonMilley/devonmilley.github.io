@@ -1,5 +1,7 @@
 body {
     background-color: #fc5f1a;
+    font-family: "nunito sans", sans-serif;
+    font-size: 18px;
 
 }
 
@@ -7,12 +9,17 @@ body {
     padding-top: 5%;
 }
 
+h1,
+h2 {
+    font-family: "Anton", sans-seif;
+    text-align: center;
+       text-transform: uppercase;
+}
+
 h1 {
     font-size: 60px;
-    font-family: "Anton", sans-seif;
     color: #010833;
     line-height: 1;
-    text-align: center;
 }
 
 .bio {
@@ -34,12 +41,6 @@ h1 {
     display: block;
 }
 
-p,
-ul {
-    font-family: "nunito sans", sans-serif;
-    font-size: 18px;
-    line-height: 1;
-}
 
 .box {
     background-color: white;
@@ -49,17 +50,13 @@ ul {
     margin-bottom: 2%;
 }
 
-h2 {
-    font-family: "Anton", sans-seif;
-    text-align: center;
-}
 
 .title-box {
     font-size: 70px;
+    font-family: "Anton", sans-serif;
     letter-spacing: 2.5px;
     background-color: #010833;
-    color: #fc5f1a;
-    font-family: "Anton", sans-seif;
+    color: #ffa500;
     text-align: center;
     padding-top: 2%;
     padding-bottom: 2%;
@@ -67,25 +64,37 @@ h2 {
     margin-bottom: 2%;
 }
 
+.description1,
+.description3{
+font-family: "nunito sans", sans-serif;
+}
+
+.description2,
+.description3{
+    color: #010833;
+}
+
+.description1,
+.description2,
+.description3{
+    text-transform: uppercase;
+}
+
 .description1 {
     color: #ffa500;
-    font-family: "nunito sans", sans-serif;
     font-weight: 500;
     letter-spacing: 1.5px;
     font-size: 18px;
 }
 
 .description2 {
-    color: #010833;
-    font-family: "Anton", sans-seif;
+    font-family: "Anton", sans-serif;
     font-size: 30px;
     margin: 0;
     padding: 0;
 }
 
 .description3 {
-    color: #010833;
-    font-family: "nunito sans", sans-serif;
     font-weight: 200;
     font-size: 16px;
 }
@@ -96,6 +105,10 @@ h2 {
     color: white;
     width: 25%;
     margin: 0 auto;
+}
+
+.footer{
+    font-size: 14px;
 }
 
 @media (max-width: 576px) {
