@@ -1,15 +1,38 @@
 /*font-family: 'Fjalla One', sans-serif;
 font-family: 'Shippori Mincho', serif;*/
 
-.title-banner{
-	background-color: black;
-	color: red;
-	text-transform: uppercase;
-	font-family: 'Fjalla One', sans-serif;
-	text-align: center;
-	padding: 10px;
+#title-banner {
+    background-color: black;
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
     text-align: center;
     margin: auto;
+}
+
+#adjust {
+    font-size: 100px;
+}
+
+#bio {
+    font-size: 25px;
+}
+
+h2,
+#title-banner {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+p,
+#bio {
+    font-family: 'Shippori Mincho', serif;
+}
+
+.image,
+.twitter-tweet {
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 /*how do i get my column to go all the way across the page*/
