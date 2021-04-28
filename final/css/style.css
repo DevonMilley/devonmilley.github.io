@@ -1,7 +1,7 @@
 /*font-family: 'Fjalla One', sans-serif;
 font-family: 'Shippori Mincho', serif;*/
 
-#title-banner {
+.title-banner {
     background-color: black;
     color: red;
     text-transform: uppercase;
