@@ -14,7 +14,7 @@
 
 #bio {
     font-size: 25px;
-    letter-spacing: -1px;
+    text-transform: none;
 }
 
 a{
