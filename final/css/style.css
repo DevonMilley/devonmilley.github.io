@@ -43,4 +43,9 @@ p,
     padding-bottom: 2%;
 }
 
+.caption{
+    font-size: 12px;
+    margin-top: -1;
+}
+
 /*how do i get my column to go all the way across the page*/
