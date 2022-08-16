@@ -19,9 +19,20 @@ a {
   color: black;
 }
 
-.about, .resume {
+.about {
   margin-top: 10%;
   margin-bottom: 10%;
   padding-left: 10%;
   padding-right: 10%;
+}
+
+.resume {
+  margin-top: 3%;
+  margin-bottom: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1.resume {
+  color: #666CA3;
 }
