@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.hed {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 2%;
+  background-color: #C5CBD3;
+  text-align: right;
+}
+
+a:hover {
+  color: #666CA3;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.about, .resume {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
