@@ -36,3 +36,15 @@ a {
 h1.resume {
   color: #666CA3;
 }
+
+.fa {
+    color: #A9B4C2;
+    padding: 10px;
+    font-size: 40px;
+    width: 50px;
+    text-decoration: none;
+  }
+
+.footer {
+  text-align: center;
+}
