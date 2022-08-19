@@ -11,12 +11,12 @@ body {
 }
 
 a:hover {
-  color: #666CA3;
+  color: #03012C;
 }
 
 a {
+  color: #666CA3;
   text-decoration: none;
-  color: black;
 }
 
 .about {
@@ -26,14 +26,19 @@ a {
   padding-right: 10%;
 }
 
-.resume {
+.resume, .clips {
   margin-top: 3%;
   margin-bottom: 10%;
   padding-left: 10%;
   padding-right: 10%;
 }
 
-h1.resume {
+h1.special-head {
+  color: #666CA3;
+  font-size: 50px;
+}
+
+h1.greeting {
   color: #666CA3;
 }
 
@@ -44,6 +49,10 @@ h1.resume {
     width: 50px;
     text-decoration: none;
   }
+
+.fa:hover {
+  color: #666CA3;
+}
 
 .footer {
   text-align: center;
