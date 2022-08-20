@@ -50,7 +50,16 @@ h1.greeting {
     text-decoration: none;
   }
 
-.fa:hover {
+.fa:hover, a.clip:hover {
+  color: #666CA3;
+}
+
+
+a.clip {
+  color: black;
+}
+
+h2.clip-head {
   color: #666CA3;
 }
 
